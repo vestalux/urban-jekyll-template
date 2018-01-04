@@ -1,6 +1,6 @@
 title: Urban Template
-url: "https://teal-worm.cloudvent.net"
-baseurl:
+url: "https://vestalux.github.io/"
+baseurl: "/urban-jekyll-template"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
